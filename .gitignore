@@ -1,0 +1,10 @@
+/models/
+models/1024-synthesis/saved_model.pb
+/face_sample_demo_cpu/settings.py
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+media
